@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Seany42
+- 👀 I’m interested in anything that will help me move from noob to intermediate coding skills in Python
+- 🌱 I’m currently learning Python using Python Crash Course
+- 📫 How to reach me seany42@gmail.com
